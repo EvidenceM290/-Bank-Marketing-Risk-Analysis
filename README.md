@@ -77,8 +77,8 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
   - The **AUC score = 0.765**, indicating a decent predictive capability.  
   - The **closer AUC is to 1, the better the classification performance**.
 
-**📌 ROC Curve Visualization:**
-![ROC Curve](images/roc_curve.png)
+## 📌 ROC Curve Visualization:
+![ROC Curve](https://raw.githubusercontent.com/EvidenceM290/-Bank-Marketing-Risk-Analysis/main/images/ROC%20Curve%20graph%20for%20classification%20performance.png)
 
 ---
 
