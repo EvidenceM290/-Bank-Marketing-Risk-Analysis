@@ -95,7 +95,9 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 
 ---
 
-## **📬 Connect With Me**
+## 📩 **Connect With Me**
+📧 **Email:** emadhume@smu.edu  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/evidence-madhume-874540204/)  
-📂 **GitHub Portfolio:** [My Git Hub Portfolio](https://github.com/EvidenceM290/EvidenceM290/)  
+🌍 **GitHub**: [EvidenceM290](https://github.com/EvidenceM290)  
+
 ---
