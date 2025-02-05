@@ -20,9 +20,9 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
  │   ├── bank_data.csv *(Raw data file)*
  │   ├── processed_data.csv *(Cleaned dataset after preprocessing)*
  │  
- ├── 📂 notebooks/ *(Jupyter Notebooks & R scripts for model building)*
- │   ├── bank_marketing_analysis.ipynb *(Exploratory Data Analysis & Model Training)*
- │   ├── model_evaluation.ipynb *(Confusion Matrix, ROC Curve, AUC computation)*
+ ├── 📂 notebooks/ *(Completely run in Knime, You can Jupyter Notebooks & R scripts for model building)*
+ │   ├── bank_marketing_analysis.knwf *(Exploratory Data Analysis & Model Training)*
+ │   ├── mbank_marketing_analysis.knwf *(Confusion Matrix, ROC Curve, AUC computation)*
  │  
  ├── 📂 images/ *(Screenshots & visualizations for better insights)*
  │   ├── workflow.png *(KNIME Workflow Overview)*
@@ -31,11 +31,11 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
  │   ├── model_metrics.png *(Precision, Recall, Specificity results)*
  │  
  ├── 📂 models/ *(Stored machine learning models if applicable)*
- │   ├── bank_model.pkl *(Saved trained model for reuse)*
+ │   ├── bank_marketing_analysis.knwf *(Saved trained model for reuse)*
  │  
  ├── 📜 README.md *(Project documentation and guide)*
- ├── 📜 requirements.txt *(List of dependencies needed to run the project)*
- ├── 📜 LICENSE *(Optional: Open-source license information)*
+ ├── 📜 requirements.txt *(Knime)*
+ ├── 📜 LICENSE *( Open Source)*
 ```
 
 ---
