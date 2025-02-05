@@ -11,11 +11,7 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 - 📊 **Evaluation Metrics:** ROC AUC, Precision, Recall, F1-Score
 
 ## 📂 Project Structure
-
-
 ---
-
-### **💡 What Each Folder Contains**
 | 📂 Folder Name  | Contents & Purpose |
 |----------------|-------------------|
 | **`data/`** | Stores raw and cleaned datasets (e.g., CSV, Excel files) |
