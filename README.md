@@ -18,7 +18,7 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 📂 bank-marketing-risk-analysis/
  ├── 📂 data/ (Datasets)
  │   ├── bank_data.csv *(Raw data file)*
- │   ├── processed_data.csv *(Cleaned dataset after preprocessing)*
+ │   ├── cleaned_bank_data.table *(Cleaned dataset after preprocessing)*
  │  
  ├── 📂 notebooks/ *(Completely run in Knime, You can Jupyter Notebooks & R scripts for model building)*
  │   ├── bank_marketing_analysis.knwf *(Exploratory Data Analysis & Model Training)*
