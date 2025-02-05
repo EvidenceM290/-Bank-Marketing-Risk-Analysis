@@ -67,8 +67,9 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
   - Precision: **51.7%**
   - Prevalence (subscription rate in dataset): **11.8%**
 
-**📌 Confusion Matrix Output:**
-![Confusion Matrix](images/confusion_matrix.png)
+## 📌 Confusion Matrix Output:
+![Confusion Matrix](https://raw.githubusercontent.com/EvidenceM290/-Bank-Marketing-Risk-Analysis/main/images/Confusion%20Matrix%20from%20model%20evaluation.png)
+
 
 ---
 
@@ -89,8 +90,8 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
   - Consider **alternative models (Logistic Regression, Decision Trees)** for improved recall.
   - Tune **threshold settings** to balance recall and precision.
 
-**📌 Model Performance Metrics Table:**
-![Model Metrics](images/model_metrics.png)
+## 📌 Model Performance Metrics:
+![Model Metrics](https://raw.githubusercontent.com/EvidenceM290/-Bank-Marketing-Risk-Analysis/main/images/Model%20Metrics.png)
 
 ---
 
