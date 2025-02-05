@@ -34,8 +34,4 @@ Here are some key insights from our analysis:
 
 📌 **Key Takeaway:** The model achieved an **AUC of 0.84**, meaning it effectively differentiates between likely and unlikely subscribers.
 
-## 🔧 How to Run the Project
-### 1️⃣ Clone this Repository
-```sh
-git clone https://github.com/EvidenceM290/bank-marketing-risk-analysis.git
-cd bank-marketing-risk-analysis
+
