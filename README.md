@@ -116,6 +116,6 @@ jupyter notebook
 
 ## **📬 Connect With Me**
 📧 **Email:** evmadhume@gmail.com  
-🔗 **LinkedIn:** [LinkedIN](http://www.linkedin.com/in/evidence-madhume-874540204)  
-📂 **GitHub Portfolio:** [My Portfolio](https://github.com/EvidenceM290/EvidenceM290/)  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/evidence-madhume-874540204/)  
+📂 **GitHub Portfolio:** [My Git Hub Portfolio](https://github.com/EvidenceM290/EvidenceM290/)  
 ---
