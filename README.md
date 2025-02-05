@@ -49,7 +49,6 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 
 **📌 Workflow Overview:**
 ![Workflow]("images/C:/Users/actua/OneDrive/Desktop/MSBA 2024/Fall MOD B/Data Mining/Assign 1/Model Flow.png".png)
-
 ---
 
 ### **Step 2: Model Training & Prediction**
