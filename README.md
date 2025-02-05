@@ -95,25 +95,6 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 
 ---
 
-## **🔧 How to Run the Project**
-### **1️⃣ Clone this Repository**
-```sh
-git clone https://github.com/EvidenceM290/bank-marketing-risk-analysis.git
-cd bank-marketing-risk-analysis
-```
-
-### **2️⃣ Install Dependencies (for Python)**
-```sh
-pip install -r requirements.txt
-```
-
-### **3️⃣ Run the Jupyter Notebook**
-```sh
-jupyter notebook
-```
-
----
-
 ## **📬 Connect With Me**
 📧 **Email:** evmadhume@gmail.com  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/evidence-madhume-874540204/)  
