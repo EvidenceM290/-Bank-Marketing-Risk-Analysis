@@ -12,6 +12,21 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 
 ## 📂 Project Structure
 
+
+---
+
+### **💡 What Each Folder Contains**
+| 📂 Folder Name  | Contents & Purpose |
+|----------------|-------------------|
+| **`data/`** | Stores raw and cleaned datasets (e.g., CSV, Excel files) |
+| **`notebooks/`** | Contains Jupyter Notebooks or R scripts for analysis and modeling |
+| **`images/`** | Screenshots, graphs, and visualizations (ROC curve, confusion matrix, etc.) |
+| **`models/`** | Saved trained models (e.g., `.pkl`, `.h5`, `.sav` files) |
+| **`README.md`** | Main project documentation explaining the project |
+| **`requirements.txt`** | List of Python dependencies for easy setup |
+| **`LICENSE`** | (Optional) Licensing information for open-source projects |
+
+---
 ## 📈 Results & Visualizations
 Here are some key insights from our analysis:
 
