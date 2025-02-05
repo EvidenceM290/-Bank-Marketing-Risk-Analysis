@@ -47,8 +47,9 @@ This project analyzes **Portuguese bank telemarketing data** to predict whether 
 - ⚙️ **Feature Selection:** Removed **duration** since it leaks prediction.
 - 🔄 **Data Splitting:** Partitioned into **70% training** and **30% validation**.
 
-**📌 Workflow Overview:**
-![Workflow]("images/C:/Users/actua/OneDrive/Desktop/MSBA 2024/Fall MOD B/Data Mining/Assign 1/Model Flow.png".png)
+## 📌 Workflow Overview:
+![Workflow](https://raw.githubusercontent.com/EvidenceM290/-Bank-Marketing-Risk-Analysis/main/images/Model%20Flow.png)
+
 ---
 
 ### **Step 2: Model Training & Prediction**
